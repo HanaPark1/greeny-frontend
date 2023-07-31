@@ -3,6 +3,7 @@ import * as itemS from "./Styled/DetailPage.main.serviceList.styles";
 
 function serviceList() {
 	return (
+		
 		<>
 			<itemS.serviceListWrapper>
 				<itemS.ListWrapper>

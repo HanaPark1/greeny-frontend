@@ -2,6 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import * as itemS from "./Styled/DetailPage.main.detailItem.styles";
 
 function DetailItem() {
+	
 	return (
 		<itemS.ItemWrapper>
 			<itemS.ImageItem></itemS.ImageItem>

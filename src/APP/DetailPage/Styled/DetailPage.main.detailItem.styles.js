@@ -109,6 +109,7 @@ export const totalWrapper = styled.div`
     justify-content: space-between;
 `
 
+
 export const wishBtn = styled.button`
     width: 224px;
     height: 44px;

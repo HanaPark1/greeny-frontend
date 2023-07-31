@@ -7,6 +7,7 @@ export const serviceListWrapper = styled.div`
     width: 75vw;
     margin-left: 12.5vw;
 
+    
     display: flex;
     justify-content: center;
     align-items: center ;

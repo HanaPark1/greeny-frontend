@@ -5,6 +5,7 @@ import DetailItem from "./DetailPage.main.detailItem";
 import ServiceList from "./DetailPage.main.serviceList";
 import ServiceContent from "./DetailPage.main.serviceContent";
 
+
 function DetailPage() {
 	return (
 		<>
